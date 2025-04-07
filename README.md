@@ -1,2 +1,3 @@
-# likhith_hexa
+# lucky_hexa
 sample project
+the project is about the sample data
